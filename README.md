@@ -7,6 +7,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ](https://wa.me/5599985137413)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/carlos-sampaio-a02651265)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-important?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1TbOWEBVCY9cIwxD6KbLpRgBV2O2hAZMR/view?usp=sharing)
+[![Portfólio](https://img.shields.io/badge/Portfólio-View%20Now-brightgreen?style=for-the-badge&logo=git&logoColor=white)](https://seu-link-para-o-portfolio.com)
+
+
 
 
 
