@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Carlos Eduardo 👋
 
 
-[![Blog](https://img.shields.io/website?label=Desenvolvedorㅤwebㅤfront-end&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
+[![Blog](https://img.shields.io/website?label=Desenvolvedorㅤfront-end&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://instagram.com/wilson_delavega_69)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ](https://wa.me/5599985137413)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/carlos-sampaio-a02651265)
