@@ -9,15 +9,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMPAIOCARLOS&show_icons=true&theme=dark)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&size_weight=0.5&count_weight=0.5)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 
 ## Tecnologias que eu uso no meu dia
