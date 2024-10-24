@@ -15,7 +15,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&size_weight=1&count_weight=0)
+
 
 
 
