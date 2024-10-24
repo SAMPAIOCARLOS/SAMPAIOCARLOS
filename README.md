@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://instagram.com/wilson_delavega_69)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ](https://wa.me/5599985137413)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/carlos-sampaio-a02651265)
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-important?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](LINK_DO_SEU_CV)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-important?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1TbOWEBVCY9cIwxD6KbLpRgBV2O2hAZMR/view?usp=sharing)
 
 
 
