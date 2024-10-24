@@ -13,6 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&theme=dark)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&layout=compact&theme=radical)
 
 
 
