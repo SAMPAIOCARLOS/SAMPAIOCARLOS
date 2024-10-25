@@ -12,9 +12,13 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+<div align="center">
+    <a href="https://github.com/SAMPAIOCARLOS/">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SAMPAIOCARLOS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&layout=compact&langs_count=7&theme=algolia"/>
+    </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&layout=compact&theme=radical)
 
 
 ## Tecnologias que eu uso no meu dia
