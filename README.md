@@ -10,7 +10,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Portfolio-2D2D2D?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://sampaiocarlos.netlify.app/)
 
 
-
+<br/>
 
 <div align="left">
     <a href="https://github.com/SAMPAIOCARLOS/">
