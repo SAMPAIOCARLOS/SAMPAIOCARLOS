@@ -33,6 +33,8 @@
   <img align="center" alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-1B1B1B?style=for-the-badge&logo=Figma&logoColor=white" />
+
 
   
 </div><br>
