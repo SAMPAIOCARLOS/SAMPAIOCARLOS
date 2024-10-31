@@ -16,7 +16,9 @@
     <a href="https://github.com/SAMPAIOCARLOS/">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SAMPAIOCARLOS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&layout=compact&langs_count=7&theme=algolia"/>
-        [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+        
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"/>
+        
     </a>
 </div>
 
