@@ -14,7 +14,7 @@
 
 <div align="left">
     <a href="https://github.com/SAMPAIOCARLOS/">
-        <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&layout=donut&theme=dark&card_width=400"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOCARLOS&layout=donut&theme=dark&card_width=400"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SAMPAIOCARLOS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
 </div>
