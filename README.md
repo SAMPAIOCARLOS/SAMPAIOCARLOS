@@ -43,9 +43,10 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="TypeScript" width="50" height="50" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Photoshop" width="50" height="50" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="SQL" width="50" height="50" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sql-original.svg" />
+  <img align="center" alt="SQL" width="50" height="50" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PHP" width="50" height="50" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
+
 
 
 <br>
