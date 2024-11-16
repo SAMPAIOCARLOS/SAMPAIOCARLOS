@@ -25,7 +25,7 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="HTML5" width="50" height="50" style="padding: 0 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="HTML5" width="50" height="50" style="border: 1px solid red;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" width="50" height="50" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" width="50" height="50" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Vue.js" width="50" height="50" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
